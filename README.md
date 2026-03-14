@@ -1,1 +1,3 @@
-# AWS_Interview_Set
+# Interview Set: AWS Interview and Practical Scenario/Code based questions
+
+![intro](./Imgs/intro.avif)
